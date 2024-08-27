@@ -18,7 +18,7 @@ namespace iText.Samples.Sandbox.Xfa
             // LicenseKey.LoadLicenseFile(new FileStream(@"C:\temp\f8252cd70306c4f870d28f921f75dae6f1c0de53c743a6971ef6fc7534770a29.json", FileMode.Open));
 
             // Načtení licenčního souboru pomocí FileInfo
-            LicenseKey.LoadLicenseFile(new FileInfo(@"C:\temp\f8252cd70306c4f870d28f921f75dae6f1c0de53c743a6971ef6fc7534770a29.json"));
+            LicenseKey.LoadLicenseFile(new FileInfo(@"../../../license-key-itext/f8252cd70306c4f870d28f921f75dae6f1c0de53c743a6971ef6fc7534770a29.json"));
 
             FileInfo file = new FileInfo(DEST);
             file.Directory.Create();
