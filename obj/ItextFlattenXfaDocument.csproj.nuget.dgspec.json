@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\frysl\\OneDrive - GORDIC spol. s r.o\\Data-Vse-Rysl\\Data\\00_VS_PROJECT\\ItextFlattenXfaDocument\\ItextFlattenXfaDocument.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\frysl\\OneDrive - GORDIC spol. s r.o\\Data-Vse-Rysl\\Data\\00_VS_PROJECT\\ItextFlattenXfaDocument\\ItextFlattenXfaDocument.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\frysl\\OneDrive - GORDIC spol. s r.o\\Data-Vse-Rysl\\Data\\00_VS_PROJECT\\ItextFlattenXfaDocument\\ItextFlattenXfaDocument.csproj",
+        "projectName": "ItextFlattenXfaDocument",
+        "projectPath": "C:\\Users\\frysl\\OneDrive - GORDIC spol. s r.o\\Data-Vse-Rysl\\Data\\00_VS_PROJECT\\ItextFlattenXfaDocument\\ItextFlattenXfaDocument.csproj",
+        "packagesPath": "C:\\Users\\frysl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frysl\\OneDrive - GORDIC spol. s r.o\\Data-Vse-Rysl\\Data\\00_VS_PROJECT\\ItextFlattenXfaDocument\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frysl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "itext": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "itext.licensing.base": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "itext.pdfxfa": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

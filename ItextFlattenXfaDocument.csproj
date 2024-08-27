@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <LangVersion>10.0</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="itext" Version="*"/>
+    <PackageReference Include="itext.pdfxfa" Version="4.0.4"/>
+    <PackageReference Include="itext.licensing.base" Version="*"/>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+c:\Users\frysl\OneDrive - GORDIC spol. s r.o\Data-Vse-Rysl\Data\00_VS_PROJECT\ItextFlattenXfaDocument\obj\Debug\net80\ItextFlattenXfaDocument.csproj.AssemblyReference.cache
+c:\Users\frysl\OneDrive - GORDIC spol. s r.o\Data-Vse-Rysl\Data\00_VS_PROJECT\ItextFlattenXfaDocument\obj\Debug\net80\ItextFlattenXfaDocument.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\frysl\OneDrive - GORDIC spol. s r.o\Data-Vse-Rysl\Data\00_VS_PROJECT\ItextFlattenXfaDocument\obj\Debug\net80\ItextFlattenXfaDocument.AssemblyInfoInputs.cache
+c:\Users\frysl\OneDrive - GORDIC spol. s r.o\Data-Vse-Rysl\Data\00_VS_PROJECT\ItextFlattenXfaDocument\obj\Debug\net80\ItextFlattenXfaDocument.AssemblyInfo.cs
+c:\Users\frysl\OneDrive - GORDIC spol. s r.o\Data-Vse-Rysl\Data\00_VS_PROJECT\ItextFlattenXfaDocument\obj\Debug\net80\ItextFlattenXfaDocument.csproj.CoreCompileInputs.cache
