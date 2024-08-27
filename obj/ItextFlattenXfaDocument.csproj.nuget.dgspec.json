@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\frysl\\OneDrive - GORDIC spol. s r.o\\Data-Vse-Rysl\\Data\\00_VS_PROJECT\\ItextFlattenXfaDocument\\ItextFlattenXfaDocument.csproj",
-        "projectName": "ItextFlattenXfaDocument",
+        "projectName": "FlattenXfaDocument",
         "projectPath": "C:\\Users\\frysl\\OneDrive - GORDIC spol. s r.o\\Data-Vse-Rysl\\Data\\00_VS_PROJECT\\ItextFlattenXfaDocument\\ItextFlattenXfaDocument.csproj",
         "packagesPath": "C:\\Users\\frysl\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\frysl\\OneDrive - GORDIC spol. s r.o\\Data-Vse-Rysl\\Data\\00_VS_PROJECT\\ItextFlattenXfaDocument\\obj\\",
@@ -17,14 +17,14 @@
           "C:\\Users\\frysl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net461"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net461": {
+            "targetAlias": "net461",
             "projectReferences": {}
           }
         },
@@ -40,57 +40,34 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net461": {
+          "targetAlias": "net461",
           "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
             "itext": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[8.0.5, )"
             },
             "itext.licensing.base": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[4.1.4, )"
             },
             "itext.pdfxfa": {
               "target": "Package",
               "version": "[4.0.4, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     }

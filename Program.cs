@@ -1,22 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.IO;
 using iTextSharp.tool.xml.xtra.xfa;
 using iText.Licensing.Base;
-
-LicenseKey.LoadLicenseFile(new FileStream(@"C:\temp\f8252cd70306c4f870d28f921f75dae6f1c0de53c743a6971ef6fc7534770a29.json", FileMode.Open));
-
 
 namespace iText.Samples.Sandbox.Xfa
 {
     public class FlattenXfaDocument
     {
-        public static readonly String DEST = @"C:\temp\xfa-form-flatten.pdf";
-        public static readonly String XFA = @"C:\temp\xfa-form.pdf";
+        public static readonly String DEST = "../../../results/xfa/priznani-vzor-xfa-s-podpisem-original-flatten.pdf";
+
+        public static readonly String XFA = "../../../resources/xfa/priznani-vzor-xfa-s-podpisem-original.pdf";
 
         public static void Main(String[] args)
         {
+            // Načtení licenčního souboru pomocí FileStream
+            // LicenseKey.LoadLicenseFile(new FileStream(@"C:\temp\f8252cd70306c4f870d28f921f75dae6f1c0de53c743a6971ef6fc7534770a29.json", FileMode.Open));
+
+            // Načtení licenčního souboru pomocí FileInfo
+            LicenseKey.LoadLicenseFile(new FileInfo(@"C:\temp\f8252cd70306c4f870d28f921f75dae6f1c0de53c743a6971ef6fc7534770a29.json"));
+
             FileInfo file = new FileInfo(DEST);
             file.Directory.Create();
 
@@ -26,8 +29,8 @@ namespace iText.Samples.Sandbox.Xfa
         protected void ManipulatePdf(String dest)
         {
             MetaData metaData = new MetaData()
-                .SetAuthor("iText Samples")
-                .SetLanguage("EN")
+                .SetAuthor("iText FR")
+                .SetLanguage("CZ")
                 .SetSubject("Showing off our flattening skills")
                 .SetTitle("Flattened XFA");
 

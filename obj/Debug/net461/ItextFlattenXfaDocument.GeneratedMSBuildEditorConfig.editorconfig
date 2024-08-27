@@ -1,5 +1,5 @@
 is_global = true
-build_property.RootNamespace = ItextFlattenXfaDocument
+build_property.RootNamespace = iText.Samples.Sandbox.Xfa
 build_property.ProjectDir = C:\Users\frysl\OneDrive - GORDIC spol. s r.o\Data-Vse-Rysl\Data\00_VS_PROJECT\ItextFlattenXfaDocument\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
