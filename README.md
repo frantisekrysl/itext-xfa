@@ -1,5 +1,5 @@
 ## Itext FlattenXfaDocument (c#)
-František Rýsl
+**František Rýsl, 2024**
 
 ### Converts (Flatten) XFA PDF files to standard PDF.
 
