@@ -1,4 +1,9 @@
 ## Itext FlattenXfaDocument (c#)
+
+This repository contains code that has been taken and modified from the iText project (https://itextpdf.com/). All rights to this code belong to the original authors of iText. This code is not my original work.
+
+The iText project is distributed under the AGPL (Affero General Public License). For more information, please visit the official iText website: AGPL License.
+
 **František Rýsl, 2024**
 
 ### Converts (Flatten) XFA PDF files to static PDF.
