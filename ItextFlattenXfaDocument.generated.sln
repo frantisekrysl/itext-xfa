@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItextFlattenXfaDocument", "ItextFlattenXfaDocument.csproj", "{104E0111-082F-4C80-B9AE-B714545D5FB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ItextFlattenXfaDocument", "ItextFlattenXfaDocument.csproj", "{18256796-A6DD-42A0-BC12-22FFB729E849}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{104E0111-082F-4C80-B9AE-B714545D5FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{104E0111-082F-4C80-B9AE-B714545D5FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{104E0111-082F-4C80-B9AE-B714545D5FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{104E0111-082F-4C80-B9AE-B714545D5FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18256796-A6DD-42A0-BC12-22FFB729E849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18256796-A6DD-42A0-BC12-22FFB729E849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18256796-A6DD-42A0-BC12-22FFB729E849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18256796-A6DD-42A0-BC12-22FFB729E849}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
