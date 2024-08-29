@@ -10,7 +10,7 @@ namespace iText.Samples.Sandbox.Xfa
     {
         public static readonly String DEST = "../../../results/xfa/priznani-vzor-xfa-s-podpisem-original-flatten.pdf";
 
-        public static readonly String XFA = "../../../resources/xfa/priznani-vzor-xfa-s-podpisem-original.pdf";
+        public static readonly String XFA = "../../../resources/xfa/priznani-vzor-xfa-s-podpisem-original-ok.pdf";
 
         public static void Main(String[] args)
         {
