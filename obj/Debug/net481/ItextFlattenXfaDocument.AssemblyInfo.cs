@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlattenXfaDocument")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b76efc5dd6623efd3f9b0bec4e24b8854d90dae7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bae5dc1b0a29638acc794935e1729ad8382eeba")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlattenXfaDocument")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlattenXfaDocument")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
