@@ -1,7 +1,7 @@
 ## Itext FlattenXfaDocument (c#)
 **František Rýsl, 2024**
 
-### Converts (Flatten) XFA PDF files to standard PDF.
+### Converts (Flatten) XFA PDF files to static PDF.
 
 A license key is required.
 
