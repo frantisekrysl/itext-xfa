@@ -1,8 +1,7 @@
-Itext FlattenXfaDocument (c#)
+# Itext FlattenXfaDocument (c#)
+## František Rýsl
 
-František Rýsl
-
-Converts (Flatten) XFA PDF files to standard PDF.
+### Converts (Flatten) XFA PDF files to standard PDF.
 
 A license key is required.
 
