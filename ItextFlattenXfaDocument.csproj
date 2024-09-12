@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>exe</OutputType>
-    <TargetFramework>net481</TargetFramework>
+    <TargetFramework>net480</TargetFramework>
     <RootNamespace>iText.Samples.Sandbox.Xfa</RootNamespace>
     <AssemblyName>FlattenXfaDocument</AssemblyName>
   </PropertyGroup>

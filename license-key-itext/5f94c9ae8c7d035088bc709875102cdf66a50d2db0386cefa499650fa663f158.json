@@ -1,0 +1,163 @@
+[
+  {
+    "product": "itext-core",
+    "licensee": {
+      "company": "Roman Enderve",
+      "name": "Roman Enderve",
+      "email": "f.r@seznam.cz"
+    },
+    "key": "5f94c9ae8c7d035088bc709875102cdf66a50d2db0386cefa499650fa663f158",
+    "creationDate": "2024-09-12",
+    "expirationDate": "2024-10-13",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "arJIEns+u8G5mFGpsyPrqQUtp6y6XgK25L52rXGBrFrx1Akk9EX4mRdpXVEEMtG9NKRhVaBhAVQBN3mI3I2ysAJw8kq1PPu6kG/0xXijSBXxQyN3bYz4L6YbrV+eiD8tJnxBP4vSEQFoldkxE1qfx7TWqLSABSat5sGL3Zdz+lPbWDr++KdYAQQmOHiN6kNuGSIiFN3A7IEWv8cem+5wg5CUjsnmuR5ux4/0JaEIfPAer4YnAZGuz6lHYQTSokxqnlYWA6HFDInJgXSs6jk0+wdZ/UFaKtdfqvepKfXjHd7rybbZN51qkhm5b6EcGNAt0lmufK5O3iCjS4cB7p6CUF+bjIQSyYFvB6MIhPbzXw7RGur9nFSVcN6JIPckApYIajRP3JdQtu8dhpBMn1TTp5HP+jGw3WMS7QDe0kW6o3M6XIBwWU4Q9p+TDnIHoV72fha5u55TjTVqscSDKl8yh+LP51xd9CQSNtZrjuMRcarXGUJIHZ9ksg4L1tcfkG8pntnBaaNGopvFqPUNjKk1W84YkThqz3+V5Y5AMKh47J715eS6wWwtMOKeY/2KK8Wo7B6YraXQYZ0+ADHLnRKlrCoig10wU7wE/nnaOABrXRzEyCVejDcbImCUP0ON2Vxl7LmtiDep3L591A7+BFmDyInv68sO1mJoKgCByegy8eY="
+  },
+  {
+    "product": "pdfXfa",
+    "licensee": {
+      "company": "Roman Enderve",
+      "name": "Roman Enderve",
+      "email": "f.r@seznam.cz"
+    },
+    "key": "5f94c9ae8c7d035088bc709875102cdf66a50d2db0386cefa499650fa663f158",
+    "creationDate": "2024-09-12",
+    "expirationDate": "2024-10-13",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "IHKHvhwip+PF1bX4celbHnqooyAstg6zm+QLo30KiGT895PC1gmdxjyXo3IrBsAH7AGHwC9hZugmLe/C6Yx1xNb8+c78dmrW3pYffYYl13D/MQiWCXCgXUaURfkubR/KgEkLfc4AernKyIVyzoxJcF8AOc6MQq/Fw6k90s8IRdBoJqeESb/3Ic7jT4EXN/FD973hs1Hmkz+cL08/TkQVL7jsuqMVylHqiTHQve6UJh3v1nouSICbFSi+h6byIMcn5PhqSMFfIkryRp8SMAIq+A8knn7ipfwKpah685+2FPZKds6PlAXXd1AZE0KyEb4EOLrTHa+/6Fe4t0I0Gjt1OECTFDcZTyKSUU5RrDJrK26RFdHTByUySTuiUQT5uaqfukqBj8jlYeDh9oJyZWNu2MBg9DSmmcuz36DiBDmRcEagQV9BKttICBsl2Lys1tGI/pddYC298OXQaaVl7uVTMMWj2HmDt78euNAwkEDh/wmA19upW9322Pa4nTyMJrkj301B3XNwjap10oCEIWUVwYEGdp8XcDFCYoWNzWTEzKqEMalkMyzz+q9aHAElCiKlXyMR8Z/WMsfgJt23LLfLOgHQK47AcTM5MoZ1qEypLWDmTPq2pJbea72UYx0lmJN+lUnl7raH+MMQyWV0crsbBdG9iR2aoqHa+t3SFPSYLKo="
+  },
+  {
+    "product": "pdfSweep",
+    "licensee": {
+      "company": "Roman Enderve",
+      "name": "Roman Enderve",
+      "email": "f.r@seznam.cz"
+    },
+    "key": "5f94c9ae8c7d035088bc709875102cdf66a50d2db0386cefa499650fa663f158",
+    "creationDate": "2024-09-12",
+    "expirationDate": "2024-10-13",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "gjqUceTC+V6/odVjzxlK2LwObAPZ4nym86X2oBDL8yBVaA9FDHCHNmHUKnLjvrvDR7jV5irLrI/F1TZxq4pAM2gBV5WKtnxtX8dSGMFmSkZD9FSrpuP76Ow6Wda6InUhVFlWBnvJfRTk3pF5/oUMHp2gMha5uPlE7cJKEzGGZtxO6He8JDRCHOjkStSPYBxqdQSiZm3SuXgfYyao3jsTryG2lqPRxhRl4dW9j9uC+alU2d5C16+E15b0nUUZm3PwZw2sKPSG+32w+SOgA6qsfWOJr0ddm1BBkQFIkVDs8t7a1waYAPw5iGRTb88cIj63gR4TSXvdAJUBndh2Z10DGuV14u3irXzrNMy2V+57jigGuvzB+qqhbIAaAkS3FtBcukPSolNtAoSDUdnzMuakTA2VDE2C9fETSNK78Ac4W1oTDPLdVxR/ZhO9I0Rs5vjbVAjQTtvEGBC8oMXsAQ/T3UMrP/EajS3yDYy8LZnqfFw/XaeU+7qZYIaUJxZNGmEMuNXML3Cm6/aqll490ArxxHRgHak9wS70emv5onvI7vBLsfxvrJVqzDVaOsQkrX2oGWZ6eCc046R13SCKNXcG+5IMWjEoixiuwHebbs2seOm5R0jH7sjUV5sAxppClrkfMHJ6SMDOcmOszXbRypczQD+2tPdNoVrAnybSdMGyFmg="
+  },
+  {
+    "product": "pdfOcr-tesseract4",
+    "licensee": {
+      "company": "Roman Enderve",
+      "name": "Roman Enderve",
+      "email": "f.r@seznam.cz"
+    },
+    "key": "5f94c9ae8c7d035088bc709875102cdf66a50d2db0386cefa499650fa663f158",
+    "creationDate": "2024-09-12",
+    "expirationDate": "2024-10-13",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "W6WHbM6xXOvaZMGmkod/FCY+B7oeJ7rxREnjzTf7ag6dqTWZPIUP2VzrWMTtmJx1MpnBwUArQP1F/bL7dKd/aPLG6NztGTIzfZo/xKRjy7GCkxYusJHPOUNSqn1ZG9pcSEYXlg3za+JUNoQSpP32Ru0AAZ2Oa8hgQF2C1BhQzr3NO+PsKhi0vNHbb1zOlKapr3sDzHNKsZZ04yMJk7I1wnX6SS9GQsUI9zGRWKht3blcGW0D9uawSNhpS0u/jcq1LATV10/w8sPW2z63KmDzj2W1i12XrwwN0fLDFeBL9UtVemD+phgQBfRE6/Ycnu3JcsiMhslS89/elLDPV6z9+zUw+Lum6DUCJ14+9G22QWLPJdqQbrYQt756Vyae6yn9YRnJF8q9vyTm5eD5W1gjSMnuvcVppz3xtGYBniO70u242B7KHMo9fktETNb5p7UrjOR+tMRzoZSzgR90yA5UF6GWHmSpb7Bu0GeeAOo/3sT08fZ97vEGfK6n15ClrSl7bDUeWSgtThjtaJLG7IXhjiSB5EkcqACTE08rNJo2vbXum3ent5M9aYZODVsX+OtPl//P1UxP52sxLe8wzd2X73CwHxIxRZGPCimtftoTSu+Tl/dgP7AXJ9/F4dEZrx3P7fq5IfFOpbhK3BswDPHkDVq7+rZFwQLqbxJWs7aalvU="
+  },
+  {
+    "product": "pdfOptimizer",
+    "licensee": {
+      "company": "Roman Enderve",
+      "name": "Roman Enderve",
+      "email": "f.r@seznam.cz"
+    },
+    "key": "5f94c9ae8c7d035088bc709875102cdf66a50d2db0386cefa499650fa663f158",
+    "creationDate": "2024-09-12",
+    "expirationDate": "2024-10-13",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "P+x8jwgqZuAxjxQ13elvqWHttpCaf4QLs/pSa40SMqERPitV08uinZ3dvH3UD0ePWW7pqv6scRPjhc4S+uUFJpat4ySYSrlU05r6js3KjDPZuh5iXWHsoQXYO027zvQuLG3egHxjnmtFzYxHMFQXwIWBwuiWh6hKJhstRJbW/8wdTPRudoe+leNDdwNNCVoeHvLYaiCRcdzj/oKBg1mYuZRsAOHKEOcScxcLpxRHT1yaIGYcL/vuPh0/qZA86SbnDrZuHEi+mokDVmsqXRcdgwck8IMGZI5dmtfIbdfa3m6KuUPdPeHBQhzFQZrzPvVXxvz4rNelDijAMu4S4HXqiWTeqUHFGzwFBOPadnrh5i8bYG4YwDR4fi8WpBWzGF60it9LqP8OJj0vZJUkfeSv6NFifUiJbMVgC8fqnrdhjJ+/By9TSedF3/uhRKCkQJmz/Nn6cNp/SEPj2jz5nQc/nB9hG0cxSf8PjqYw77sVzA5XoudkXjU4arP0RBm1vuu62UTY9DkHwcKl2ynBdOjJc912Oa3OAv5UoXnU2OanS47N9onN2GERC/IsKETvMLQtwqjRcC0E4D+X/b5a5KUpQ4BkQ+4P1AYXmBKOYwrxGwvU6HFrCqyxU2ftXfGOKU7zCIE8xiVSU9+pBljvk1G4Hsw4up+G3spa4tPJeME7U/s="
+  },
+  {
+    "product": "pdfHtml",
+    "licensee": {
+      "company": "Roman Enderve",
+      "name": "Roman Enderve",
+      "email": "f.r@seznam.cz"
+    },
+    "key": "5f94c9ae8c7d035088bc709875102cdf66a50d2db0386cefa499650fa663f158",
+    "creationDate": "2024-09-12",
+    "expirationDate": "2024-10-13",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "FhCBxW1nIPQE9qHNEiUVMYYIq7ykUyctLjT9ilASOR1e5FYjIjUWeq1isKIiyJQPk0o02bDbV78i1WPbrKgwpL0l9JjMlOHwLFe5WaRw55CJ1UXkOs6xrb8BHz2ylELwv6lzSJtw/dxV+YXtpBp42piAp4A9rMrUvEUgDkgX1nU196kSltEy31/NeifB3eumawBXfutk40rV+XxpHm9HgcP9YnnzJ+tpCm97ie3l76flFJPga4xzdAT8mehZuJquif0Bw6FmIXKatve4NFx7Utqthq4CHgwFVJSI5OCEg8pOjB+AYACd27HBgGVV/RPMREdXvEpyAU7sysuA6EToBLgyckSEdc3775dDWS+O1rQ3p0BdGz47DcTZhav756OPybf3/BknkPrOhnofxZ8JG5W3ZXRdtHUA8VfUCcAHE0xnsYrp2CHuOMB64ms+yoKhXa7yHsU615nP8VrvZSfSC5RB52bLH+OM3CZZfzui0hIhGSUwReSYP39TRabmSvwdjVYKIYYa8LiOQjSNfujya3SgvQHj3NJ3FItBGY7wAOgrqIaP17hKzTJgTloWUJp7iOjNkxAzVU6eJljVcsKZs+GT/Sj6CY1aR4pjHYkKcqkMBLBL/7jJCsWhwGVmc/dN/XnC7AlZdtPiF50vPlllKpqI3nIEvlLljLkDmGUpRAk="
+  },
+  {
+    "product": "pdfCalligraph",
+    "licensee": {
+      "company": "Roman Enderve",
+      "name": "Roman Enderve",
+      "email": "f.r@seznam.cz"
+    },
+    "key": "5f94c9ae8c7d035088bc709875102cdf66a50d2db0386cefa499650fa663f158",
+    "creationDate": "2024-09-12",
+    "expirationDate": "2024-10-13",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "g/klZ8kBpAbsYUN3HO7Ruk5iglMbQIw7XksM9PdfKPAM9lQDXpKH1IM61PnR80cf64T78Pe5Hw4Vy8u6qvHqv3NDBbb5VNXu3flOdQWxl3C9E6OJKh7nzpuKqFSslig1wrqQE9AANiw9XLkMhWb5DKdZw7iWzE+sknf93APC3f8ODZpBVNsFEek8HXXIOII9/FRfEQwOMkqeJwipGonJCKnOzmty+gs58Z5scdZOXpbwO+gV7CpFAv9j+PGQELMlxOAB1G83OwVZdqVPOzwArL+s5JNeiFzCm7Iywzwn0Uubt12HvsKX/OIoRvFGm+h6+y79Bv+dctxLRBGWVkESoN5Iy/WTnhn7MyCw2UVKJi1sNwbpShixTBCqI11YdNUHSDNhx3ma0GY4AqdDH8qbcnWv+QsSz/TKcwuzBqeml8KXLKMy0S9xEm58ugj8cyGNBrpD3tGv9N5qjvhrwobwJpmKdoyWobIHVsSHcKrp1P/x9t2UBGgmm8XUyLtFeZUTQ334af+K05tUTV6amJPwyVpqAvxswCpkwndjyjkT3o++QUWiY9B2zToL8VVM6SMOx8DGwI8CcG+3xKXf6dXFoODCoygr7Iz0kDNP8Ue48o0+NLs1ujRsq1IhAwgCxCKP5C4WcCDg5nZt7XgknFx/hrPKpCmUcDJ7dwntvsukjU8="
+  }
+]

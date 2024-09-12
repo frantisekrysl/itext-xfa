@@ -8,25 +8,30 @@ namespace iText.Samples.Sandbox.Xfa
 {
     public class FlattenXfaDocument
     {
-        public static readonly String DEST = "../../../results/xfa/priznani-vzor-xfa-s-podpisem-original-flatten.pdf";
-
-        public static readonly String XFA = "../../../resources/xfa/priznani-vzor-xfa-s-podpisem-original-ok.pdf";
-
         public static void Main(String[] args)
         {
-            // Načtení licenčního souboru pomocí FileStream
-            // LicenseKey.LoadLicenseFile(new FileStream(@"../../../license-key-itext/f8252cd70306c4f870d28f921f75dae6f1c0de53c743a6971ef6fc7534770a29.json", FileMode.Open));
+            // Ověření, zda byly zadány správné parametry
+            if (args.Length != 2)
+            {
+                Console.WriteLine("Použití: program.exe <vstupní_soubor> <výstupní_soubor>");
+                return;
+            }
 
-            // Načtení licenčního souboru pomocí FileInfo 
-            LicenseKey.LoadLicenseFile(new FileInfo(@"../../../license-key-itext/f8252cd70306c4f870d28f921f75dae6f1c0de53c743a6971ef6fc7534770a29.json"));
+            String vstupniSoubor = args[0];
+            String vystupniSoubor = args[1];
 
-            FileInfo file = new FileInfo(DEST);
+            // Načtení licenčního souboru
+            // LicenseKey.LoadLicenseFile(new FileInfo(@"../../../license-key-itext/5f94c9ae8c7d035088bc709875102cdf66a50d2db0386cefa499650fa663f158.json"));
+            LicenseKey.LoadLicenseFile(new FileInfo(@"5f94c9ae8c7d035088bc709875102cdf66a50d2db0386cefa499650fa663f158.json"));
+
+            FileInfo file = new FileInfo(vystupniSoubor);
             file.Directory.Create();
 
-            new FlattenXfaDocument().ManipulatePdf(DEST);
+            // Spuštění manipulace PDF
+            new FlattenXfaDocument().ManipulatePdf(vstupniSoubor, vystupniSoubor);
         }
 
-        protected void ManipulatePdf(String dest)
+        protected void ManipulatePdf(String vstupniSoubor, String vystupniSoubor)
         {
             MetaData metaData = new MetaData()
                 .SetAuthor("iText FR")
@@ -50,7 +55,8 @@ namespace iText.Samples.Sandbox.Xfa
                 .SetFlattenerProperties(flattenerProperties)
                 .SetViewMode(XFAFlattener.ViewMode.SCREEN);
 
-            xfaFlattener.Flatten(new FileStream(XFA, FileMode.Open), new FileStream(dest, FileMode.Create));
+            // Provádí zploštění XFA souboru
+            xfaFlattener.Flatten(new FileStream(vstupniSoubor, FileMode.Open), new FileStream(vystupniSoubor, FileMode.Create));
         }
     }
 }
